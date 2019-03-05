@@ -1,6 +1,6 @@
 {
   "name": "styled-jsx-plugin-px2rem",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Plugin for px to rem support to styled-jsx",
   "main": "index.js",
   "repository": "https://github.com/jyootai/styled-jsx-plugin-px2rem.git",
